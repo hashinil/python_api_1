@@ -30,3 +30,6 @@
         url = "https://newsapi.org/v2/everything?q=tesla&" \
           "from=2023-06-30&sortBy=publishedAt&" \
           "apiKey=XXXXXXX"
+
+
+![image](https://github.com/hashinil/python_api_1/assets/33922245/dcc3f686-6363-4e1a-a67d-89624debe018)
